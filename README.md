@@ -9,6 +9,6 @@ Todos los notebooks no usan datos externos, sino datos generados aleatoreamente 
 
 En el archivo requirements.txt se puede en contrar todas las dependencias para ejecutar los notebooks
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
