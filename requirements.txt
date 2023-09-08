@@ -6,3 +6,4 @@ seaborn
 scikit-learn
 pyclustering
 scikit-fuzzy
+networkx
