@@ -1,7 +1,7 @@
 # investigacion-ml
 por Javier Vallejos
 
-MDSv4-Machine Learning, Trabajo de investigacion de modelo de machine learning
+MDSv4-Machine Learning, Trabajo de investigacion de algoritmos de clustering de machine learning (ML)
 
 La version de python que se uso es 3.10.10
 
